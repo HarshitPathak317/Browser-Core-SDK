@@ -9,6 +9,7 @@
     </security>
   </trustInfo>
   <ram>
+    <ram class="vod"></ram>
     <ram class="int"></ram>
   </ram>
   <dependency>
